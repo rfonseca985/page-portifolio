@@ -11,7 +11,7 @@ Bem-vindo ao meu portfólio pessoal, uma aplicação desenvolvida utilizando Ang
 
 ## Como Acessar
 
-Acesse o meu portfólio online [aqui](https://github.com/rfonseca985/page-portifolio). Você também pode clonar este repositório e executar localmente seguindo os passos abaixo:
+Acesse o meu portfólio online [aqui](https://rfonseca985.github.io/page-portifolio/). Você também pode clonar este repositório e executar localmente seguindo os passos abaixo:
 
 ```bash
 # Clonar o repositório
