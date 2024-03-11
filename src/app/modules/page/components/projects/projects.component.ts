@@ -11,7 +11,7 @@ import { IProjects } from '../../interface/IProjects.interface';
 export class ProjectsComponent {
 public arrayProjects = signal<IProjects[]>([
   {
-    src: 'assets/img/projects/vfull.png',
+    src: 'assets/img/produto.png',
     alt: 'Projeto Backend CRUD de Produtos',
     title: 'Projeto CRUD de Produtos',
     with: '100px',
